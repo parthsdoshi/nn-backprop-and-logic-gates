@@ -1,6 +1,3 @@
-## BME 495 HW 3
-### Parth Doshi - doshi8@purdue.edu
-
 ## AND gate
 ### Manual Weights
 `
